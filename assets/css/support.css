@@ -1,0 +1,21 @@
+.submit-question {
+  background: url(../img/submit_question.png) no-repeat;
+  background-size: cover;
+  width: 900px;
+  height: 380px;
+  position: absolute;
+  top: 270px;
+  left: 50%;
+  margin-left: -450px;
+  margin-top: 50px;
+}
+
+.fairmatch_header_bg {
+	margin-top: -70px;
+}
+
+.fairmatch_header_inner {
+	padding-bottom: 70px;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3VwcG9ydC5jc3MiLCJzb3VyY2VzIjpbInN1cHBvcnQuc2NzcyIsInRlbXBsYXRlcy9zdXBwb3J0LnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gVGVtcGxhdGVzXG5AaW1wb3J0ICd0ZW1wbGF0ZXMvc3VwcG9ydCc7IiwiLnN1Ym1pdC1xdWVzdGlvbiB7XG5cdGJhY2tncm91bmQ6IHVybCguLi9pbWcvc3VibWl0X3F1ZXN0aW9uLnBuZykgbm8tcmVwZWF0O1xuXHRiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuXHR3aWR0aDogOTAwcHg7XG5cdGhlaWdodDogMzgwcHg7XG5cdHBvc2l0aW9uOiBhYnNvbHV0ZTtcblx0dG9wOiAyNzBweDtcblx0bGVmdDogNTAlO1xuXHRtYXJnaW4tbGVmdDogLTQ1MHB4O1xufSJdLCJtYXBwaW5ncyI6IkFDQUEsQUFBQSxnQkFBZ0IsQ0FBQztFQUNoQixVQUFVLEVBQWdDLCtCQUFDLENBQUMsU0FBUztFQUNyRCxlQUFlLEVBQUUsS0FBTTtFQUN2QixLQUFLLEVBQUUsS0FBTTtFQUNiLE1BQU0sRUFBRSxLQUFNO0VBQ2QsUUFBUSxFQUFFLFFBQVM7RUFDbkIsR0FBRyxFQUFFLEtBQU07RUFDWCxJQUFJLEVBQUUsR0FBSTtFQUNWLFdBQVcsRUFBRSxNQUFPO0NBQ3BCIiwibmFtZXMiOltdfQ== */
